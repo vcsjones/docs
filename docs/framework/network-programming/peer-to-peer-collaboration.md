@@ -2,8 +2,6 @@
 title: "Peer-to-Peer Collaboration"
 ms.date: "03/30/2017"
 ms.assetid: b6216d88-bccb-4a59-9f1c-9f751708e811
-author: "mcleblanc"
-ms.author: "markl"
 ---
 # Peer-to-peer collaboration
 
