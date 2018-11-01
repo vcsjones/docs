@@ -175,6 +175,7 @@
 ## [.NET Core Additional Tools](core/additional-tools/index.md)
 ### [WCF Web Service Reference Provider](core/additional-tools/wcf-web-service-reference-guide.md)
 ### [dotnet-svcutil](core/additional-tools/dotnet-svcutil-guide.md)
+### [dotnet-svcutil.xmlserializer](core/additional-tools/dotnet-svcutil.xmlserializer-guide.md)
 ### [XML Serializer Generator](core/additional-tools/xml-serializer-generator.md)
 ## [Porting from .NET Framework](core/porting/index.md)
 ### [Organizing projects for .NET Core](core/porting/project-structure.md)
@@ -331,8 +332,8 @@
 ## [Tour of F#](fsharp/tour.md)
 
 ## Tutorials
-### Introduction to Functional Programming
-#### [Functions as First-Class Values](fsharp/introduction-to-functional-programming/functions-as-first-class-values.md)
+### [Introduction to Functional Programming](fsharp/introduction-to-functional-programming/index.md)
+#### [First-class functions](fsharp/introduction-to-functional-programming/first-class-functions.md)
 ### Asynchronous and Concurrent Programming
 #### [Asynchronous Programming](fsharp/tutorials/asynchronous-and-concurrent-programming/async.md)
 ### [Type Providers](fsharp/tutorials/type-providers/index.md)
